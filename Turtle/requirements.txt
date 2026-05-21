@@ -1,0 +1,6 @@
+# The scripts in this directory only use Python built-in libraries:
+# - turtle
+# - random
+# - time
+# 
+# No external packages need to be installed!

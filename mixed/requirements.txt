@@ -1,0 +1,5 @@
+SpeechRecognition
+mysql-connector-python
+opencv-python
+pyfiglet
+colorama
